@@ -1,0 +1,8 @@
+/venv
+**/*/.env
+.env.dev
+.env.prod
+.env
+node_modules
+.idea/
+package-lock.json
